@@ -7,3 +7,6 @@ Basically, arduinos can communicate with python scripts through simply passing i
 A camera detects my face, and turns on a light. If I leave for a while, it turns back off.
 
 Attached is the full code to see.
+<p align="center">
+  <img src="https://github.com/EmadsGitHub/opencvlightswitch/blob/main/IMG_4750.png" width="400"/>
+</p>
